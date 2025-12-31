@@ -1,0 +1,7 @@
+{
+  "name": "RadiantIQ",
+  "description": "A clinical decision-support platform for AI-assisted radiological image analysis, providing structured reports and validated insights for medical professionals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
